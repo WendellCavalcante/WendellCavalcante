@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Wendel</h1>
 <h3 align="center">Estudante de Engenharia de Software com interesse em tecnologia e economia e muito curioso na arte de aprender</h3>
 
+- 📍 De: **Brasília - DF, Brasil**
+- 🌐 Idiomas: **Português (nativo), Inglês (básico)**
 - 📚 Atualmente estudando: **Engenharia de Software**
 - 💡 Interesses: **Tecnologia, Economia e Aprendizado Contínuo**
 - 📫 Como me encontrar: **[wendelbeach@gmail.com](mailto:wendelbeach@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/wendel-cavalcante-678338339/)
