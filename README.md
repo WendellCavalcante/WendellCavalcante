@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Wendel</h1>
+<h3 align="center">Estudante de Engenharia de Software com interesse em tecnologia e economia e muito curioso na arte de aprender</h3>
 
-<!--
-**WendellCavalcante/WendellCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente estudando: **Engenharia de Software**
+- 💡 Interesses: **Tecnologia, Economia e Aprendizado Contínuo**
+- 📫 Como me encontrar: **[wendelbeach@gmail.com](mailto:wendelbeach@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/wendel-cavalcante-678338339/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas:
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-%2300C8FF?style=flat-square&logo=sqlite&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WendellCavalcante&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### ✨ Sobre mim:
+Sou movido pela curiosidade e acredito que o aprendizado é uma jornada contínua. Gosto de entender como as coisas funcionam, explorar novas tecnologias e encontrar conexões entre diferentes áreas do conhecimento.
+
+---
+
+
+
