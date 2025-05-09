@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://wa.me/5561984324094" target="_blank">
-    <img src="whatsapp_qr_code.png" alt="QR Code WhatsApp" width="150"/>
+    <img src="https://github.com/seu-usuario/seu-repositorio/raw/main/whatsapp_qr_code.png" alt="QR Code WhatsApp" width="150"/>
   </a>
 </p>
 
@@ -41,3 +41,4 @@
 Sou movido pela curiosidade e acredito que o aprendizado é uma jornada contínua. Gosto de entender como as coisas funcionam, explorar novas tecnologias e encontrar conexões entre diferentes áreas do conhecimento.
 
 ---
+
