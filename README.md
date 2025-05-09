@@ -18,9 +18,21 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📈 Estatísticas do GitHub:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WendellCavalcante&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellCavalcante&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📱 Fale comigo no WhatsApp:
+
+<p align="left">
+  <a href="https://wa.me/5561984324094" target="_blank">
+    <img src="whatsapp_qr_code.png" alt="QR Code WhatsApp" width="150"/>
+  </a>
 </p>
 
 ---
@@ -29,6 +41,3 @@
 Sou movido pela curiosidade e acredito que o aprendizado é uma jornada contínua. Gosto de entender como as coisas funcionam, explorar novas tecnologias e encontrar conexões entre diferentes áreas do conhecimento.
 
 ---
-
-
-
