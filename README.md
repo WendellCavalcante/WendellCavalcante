@@ -3,7 +3,6 @@
 🎓 Estudante de Engenharia de Software  
 🌍 Brasília - DF  
 💡 Interesse por tecnologia, economia e a arte de aprender  
-🗣️ Português (nativo), Inglês (básico)
 
 ## 🛠️ Habilidades
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -16,6 +15,4 @@
 - 📧 Email: [wendelbeach@gmail.com](mailto:wendelbeach@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/wendel-cavalcante-678338339](https://www.linkedin.com/in/wendel-cavalcante-678338339/)  
 - 🟢 WhatsApp: [Clique aqui para conversar](https://wa.me/5561984324094)  
-- 💻 GitHub: [github.com/WendellCavalcante](https://github.com/WendellCavalcante)
-
-
+<img src="https://pin.it/B6qwXnrnK" wight="80" height="130">
