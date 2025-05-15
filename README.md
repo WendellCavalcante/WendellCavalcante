@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Wendel Cavalcante
+# 😜 Eaii!! Eu sou o Wendel Cavalcante
 
 🎓 Estudante de Engenharia de Software  
 🌍 Brasília - DF  
@@ -15,4 +15,4 @@
 - 📧 Email: [wendelbeach@gmail.com](mailto:wendelbeach@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/wendel-cavalcante-678338339](https://www.linkedin.com/in/wendel-cavalcante-678338339/)  
 - 🟢 WhatsApp: [Clique aqui para conversar](https://wa.me/5561984324094)  
-<img src="https://pin.it/B6qwXnrnK" wight="80" height="130">
+##  <img height="130" src="https://pin.it/B6qwXnrnK"/>
