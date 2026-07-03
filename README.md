@@ -26,28 +26,28 @@ Estou em constante aprendizado, explorando novas tecnologias e compartilhando co
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
       <br/><sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
       <br/><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" width="55" height="55" alt="Vue.js"/>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
       <br/><sub><b>Vue.js</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#"/>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
       <br/><sub><b>C#</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" width="55" height="55" alt="SQL"/>
-      <br/><sub><b>SQL</b></sub>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+      <br/><sub><b>MySQL</b></sub>
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
       <br/><sub><b>VS Code</b></sub>
     </td>
   </tr>
@@ -74,7 +74,19 @@ Estou em constante aprendizado, explorando novas tecnologias e compartilhando co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WendelCavalcante&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WendelCavalcante&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WendelCavalcante&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 📈 Atividades
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WendelCavalcante&theme=tokyonight&hide_border=true)](https://github.com/WendelCavalcante)
 
 </div>
 
@@ -98,6 +110,7 @@ Estou em constante aprendizado, explorando novas tecnologias e compartilhando co
 
 ### 🌱 *"Sempre aprendendo, sempre crescendo"*
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=WendelCavalcante&label=Visitantes&countColor=%23263759)
+![Visitors](https://img.shields.io/badge/Visitantes-000?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=WendelCavalcante&style=flat-square&color=blue)
 
 </div>
