@@ -2,7 +2,7 @@
 
 # 🚀 Wendel Cavalcante
 
-**Engenheiro de Software em Formação | Tech Enthusiast | Brasília, DF**
+**Engenheiro de Software em Formação | Brasília, DF**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendel-cavalcante-678338339)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelbesch@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 💬 Sobre Mim
 
-Sou estudante de **Engenharia de Software** apaixonado por tecnologia, com interesse particular em desenvolvimento web e soluções inovadoras. Acredito que a programação é a arte de resolver problemas de forma elegante.
+Sou estudante de **Engenharia de Software** apaixonado por tecnologia, com interesse particular em desenvolvimento web e soluções inovadoras. Acredito que a programação é a arte de resolver problemas de forma necessária.
 
 > *"O código é poesia executável"*
 
@@ -87,7 +87,7 @@ Estou em constante aprendizado, explorando novas tecnologias e compartilhando co
 | Plataforma | Link |
 |-----------|------|
 | 💼 **LinkedIn** | [linkedin.com/in/wendel-cavalcante](https://linkedin.com/in/wendel-cavalcante-678338339) |
-| 📧 **Email** | [wendelbesch@gmail.com](mailto:wendelbesch@gmail.com) |
+| 📧 **Email** | [wendelbeach@gmail.com](mailto:wendelbeach@gmail.com) |
 | 💬 **WhatsApp** | [Clique para conversar](https://wa.me/) |
 
 </div>
