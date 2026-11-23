@@ -1,104 +1,72 @@
 <div align="center">
 
-# 🚀 Wendel Cavalcante
+<img src="./assets/joker-banner.svg" alt="Why so serious?" width="100%"/>
 
-**Engenheiro de Software em Formação | Brasília, DF**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=120&section=header" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wendel-cavalcante-678338339)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendelbesch@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
+<a href="https://github.com/WendellCavalcante">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=B44CFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Wendell+%F0%9F%83%8F;Desenvolvedor+com+um+toque+de+caos+%F0%9F%98%88;Por+que+tão+sério%3F+Vamos+codar!+%F0%9F%92%9C;Transformando+café+em+código+%E2%98%95" alt="Typing SVG" />
+</a>
 
-</div>
-
----
-
-## 💬 Sobre Mim
-
-Sou estudante de **Engenharia de Software** apaixonado por tecnologia, com interesse particular em desenvolvimento web e soluções inovadoras. Acredito que a programação é a arte de resolver problemas de forma necessária.
-
-> *"O código é poesia executável"*
-
-Estou em constante aprendizado, explorando novas tecnologias e compartilhando conhecimento com a comunidade.
-
----
-
-## 🛠️ Tecnologias & Habilidades
-
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
-      <br/><sub><b>Vue.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
-      <br/><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-      <br/><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-      <br/><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
-
-### Competências Principais
-- **Frontend**: JavaScript, Vue.js, HTML5, CSS3
-- **Backend**: Python, C#, .NET
-- **Banco de Dados**: SQL, design relacional
-- **Soft Skills**: Aprendizado contínuo, resolução de problemas, trabalho em equipe
-
----
-
-## 📈 Objetivos
-
-- 🎯 Dominar desenvolvimento full-stack
-- 💡 Criar soluções que impactam positivamente
-- 📚 Contribuir para projetos open-source
-- 🤝 Colaborar com times diversas e inovadoras
-
----
-
-## 📈 Atividades
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WendelCavalcante&theme=tokyonight&hide_border=true)](https://github.com/WendelCavalcante)
+![Visitas](https://komarev.com/ghpvc/?username=WendellCavalcante&color=8a2be2&style=for-the-badge&label=VISITAS)
+![Seguidores](https://img.shields.io/github/followers/WendellCavalcante?style=for-the-badge&color=8a2be2&labelColor=1a0033&logo=github)
 
 </div>
 
 ---
 
-## 📫 Entre em Contato
+## 🃏 Sobre mim
+
+```js
+const wendell = {
+  nome: "Wendell Cavalcante",
+  local: "Brasília - DF 🇧🇷",
+  fã_de: ["Coringa 🃏", "Código", "Café"],
+  frase: "Se você vai ser ruim em algo, que seja ruim com estilo.",
+  aprendendo: ["Algo novo todo dia"],
+};
+```
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-| Plataforma | Link |
-|-----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/wendel-cavalcante](https://linkedin.com/in/wendel-cavalcante-678338339) |
-| 📧 **Email** | [wendelbeach@gmail.com](mailto:wendelbeach@gmail.com) |
-| 💬 **WhatsApp** | [Clique para conversar](https://wa.me/) |
+![HTML5](https://img.shields.io/badge/HTML5-8a2be2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6a1b9a?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-b44cff?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-4b0082?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-39ff14?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
 
----
+## 📊 Estatísticas
 
 <div align="center">
 
-### 🌱 *"Sempre aprendendo, sempre crescendo"*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=WendellCavalcante&show_icons=true&hide_border=true&bg_color=1a0033&title_color=39ff14&icon_color=b44cff&text_color=e9c7ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendellCavalcante&layout=compact&hide_border=true&bg_color=1a0033&title_color=39ff14&text_color=e9c7ff" />
 
-![Visitors](https://img.shields.io/badge/Visitantes-000?style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=WendelCavalcante&style=flat-square&color=blue)
+<img src="https://streak-stats.demolab.com?user=WendellCavalcante&hide_border=true&background=1a0033&ring=39ff14&fire=b44cff&currStreakLabel=e9c7ff&sideLabels=b44cff&currStreakNum=39ff14&sideNums=e9c7ff&dates=8a2be2" />
+
+</div>
+
+## 🐍 Minha cobrinha comendo contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendellCavalcante/WendellCavalcante/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/WendellCavalcante/WendellCavalcante/output/snake.svg" />
+</picture>
+
+</div>
+
+## 📫 Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=b44cff)](https://github.com/WendellCavalcante)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=100&section=footer&text=HA%20HA%20HA!&fontColor=39ff14&fontSize=28" width="100%"/>
 
 </div>
