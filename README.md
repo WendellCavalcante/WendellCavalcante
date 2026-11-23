@@ -1,12 +1,7 @@
-[README (3).md](https://github.com/user-attachments/files/35278665/README.3.md)
+[README (4).md](https://github.com/user-attachments/files/35278876/README.4.md)
 <div align="center">
 
 <img src="./assets/joker-banner.svg" alt="Why so serious?" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=120&section=header" width="100%"/>
-
-![Visitas](https://komarev.com/ghpvc/?username=WendellCavalcante&color=8a2be2&style=for-the-badge&label=VISITAS)
-![Seguidores](https://img.shields.io/github/followers/WendellCavalcante?style=for-the-badge&color=8a2be2&labelColor=1a0033&logo=github)
 
 <br/><br/>
 
@@ -30,22 +25,6 @@ Estou construindo minha base como desenvolvedor, criando projetos, errando, corr
 | 📍 **Localização** | Brasília - DF, Brasil 🇧🇷 |
 | 🔭 **Foco atual** | Desenvolvimento web e lógica de programação |
 | 🌱 **Aprendendo** | Algo novo todos os dias |
-| 🃏 **Curiosidade** | Fã do Coringa. Por que tão sério? |
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-| 🌐 Portfólio | 💻 Cardozo-01 | 📅 Dia15 |
-|:---:|:---:|:---:|
-| Meu site pessoal publicado no GitHub Pages | Projeto desenvolvido em HTML | Projeto desenvolvido em HTML |
-| [**Acessar site**](https://wendellcavalcante.github.io) | [**Ver código**](https://github.com/WendellCavalcante/Cardozo-01) | [**Ver código**](https://github.com/WendellCavalcante/Dia15) |
-
-<br/>
-
-[![Ver todos os repositórios](https://img.shields.io/badge/VER_TODOS_OS_REPOSIT%C3%93RIOS-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033)](https://github.com/WendellCavalcante?tab=repositories)
-
-</div>
 
 ## 🛠️ Tecnologias
 
@@ -77,6 +56,5 @@ Estou construindo minha base como desenvolvedor, criando projetos, errando, corr
 [![Instagram](https://img.shields.io/badge/Instagram-@wnd__ll-8a2be2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0033)](https://www.instagram.com/wnd_ll/)
 [![GitHub](https://img.shields.io/badge/GitHub-WendellCavalcante-1a0033?style=for-the-badge&logo=github&logoColor=b44cff)](https://github.com/WendellCavalcante)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=100&section=footer&text=HA%20HA%20HA!&fontColor=39ff14&fontSize=28" width="100%"/>
 
 </div>
